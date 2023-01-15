@@ -1,4 +1,4 @@
-Pandas cannot handle more than a few GB of data.
+## Pandas cannot handle more than a few GB of data.
 
 I am not the only one, even the creator Wes McKinney thinks so.
 
