@@ -1,3 +1,4 @@
+[https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray]
 ## Pandas cannot handle more than a few GB of data.
 
 I am not the only one, even the creator Wes McKinney thinks so.
