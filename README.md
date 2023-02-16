@@ -29,4 +29,6 @@ Instead of using Pandas, use these suggested packages.
 
 👉RAPIDS: a collection of data-science libraries that run on GPUs and include cuDF, a partial replacement for Pandas.
 
+👉Polars: a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as the memory model.
+
 If those do not work, try #spark.
